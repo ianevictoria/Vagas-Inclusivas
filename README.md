@@ -1,8 +1,8 @@
-# 🌈 Desvendando a Linguagem – Ferramenta Anti-Sexismo para Descrições de Vaga
+# 🌈 Ferramenta Anti-Sexismo para Descrições de Vaga com Inteligência Artificial
 
 ## 🎯 Objetivo
 
-Este projeto visa desenvolver uma ferramenta que analisa descrições de vagas de emprego, identifica termos excludentes ou sexistas e sugere alternativas inclusivas. O objetivo é promover a diversidade e a inclusão no mercado de tecnologia, eliminando barreiras que possam desencorajar grupos sub-representados de se candidatarem a determinadas posições. 🌍✨
+Este projeto visa desenvolver uma ferramenta que analisa descrições de vagas de emprego, identifica termos excludentes ou sexistas e sugere alternativas inclusivas. O objetivo é promover a diversidade e a inclusão no mercado de tecnologia, eliminando barreiras que possam desencorajar grupos sub-representados de se candidatarem a determinadas posições. A ferramenta utiliza inteligência artificial, como o modelo GPT-3.5-turbo, para aprimorar a análise de descrições de vagas, identificando nuances linguísticas e oferecendo sugestões contextualizadas para promover uma linguagem mais inclusiva. 🌍
 
 ## 🚀 Funcionalidades
 
@@ -12,7 +12,7 @@ Este projeto visa desenvolver uma ferramenta que analisa descrições de vagas d
   - “Ele deve”
   - “Implacável”
 
-**💡 Sugestão de Alternativas Inclusivas**: Após identificar termos problemáticos, a ferramenta sugere alternativas mais inclusivas e neutras em termos de gênero. 🌟
+**💡 Sugestão de Alternativas Inclusivas**: Após identificar termos problemáticos, a ferramenta sugere alternativas mais inclusivas e neutras em termos de gênero.
 
 ## 📋 Como Usar
 
@@ -21,9 +21,6 @@ Este projeto visa desenvolver uma ferramenta que analisa descrições de vagas d
    git clone https://github.com/ianevictoria/desvendando-a-linguagem.git
    cd desvendando-a-linguagem
    pip install -r requirements.txt
-2. ▶️ **Execução**: Execute a ferramenta fornecendo o texto da descrição da vaga.
-   ```bash
-   python analisar_descricao.py "Descrição da vaga aqui"
 
 3. 📊 **Resultados**: A ferramenta exibirá os termos excludentes identificados e sugerirá alternativas inclusivas.
 
@@ -34,7 +31,7 @@ Faça um fork do repositório. 🍴
 
 Crie uma branch para sua feature: git checkout -b feature/nova-feature
 
-Commit suas mudanças: git commit -m 'Adicionando nova feature')
+Commit suas mudanças: git commit -m 'Adicionando nova feature'
 
 Push para a branch: git push origin feature/nova-feature)
 
