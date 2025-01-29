@@ -36,7 +36,11 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 ### Time de QA (Garantia de Qualidade):
 - Laura Alves Xaraba  
 - Laura da Silva Lopes  
-- Maria Letícia dos Santos Dantas   
+- Maria Letícia dos Santos Dantas
+
+### Referencia
+
+Projeto construida a partir da ideia genial da [Eliane de Aragão](https://www.linkedin.com/in/elianedearag%C3%A3o/) que queria algo PRÁTICO para ser desenvolvido, mas que, ao mesmo tempo, cutucasse as dores de quem já se frustrou lendo expressões como “procuramos um líder para o time” ou “ele deve ser firme”. 
 
 ### Processo
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
